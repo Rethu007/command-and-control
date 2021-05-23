@@ -1,0 +1,32 @@
+.wrapper {
+    margin: 16px 0;
+    text-align: center;
+}
+
+/* 8cm is also the print size */
+
+.qrCardWrapper {
+    width: calc(8cm + 2 * 8px);
+    margin: 16px auto;
+    text-align: center;
+}
+
+@media print {
+    .qrCardWrapper {
+        margin: 0;
+    }
+}
+
+.qrCard {
+    padding: 8px 8px 0;
+    white-space: pre-wrap;
+}
+
+.qrCode {
+    width: 8cm !important;
+    height: 8cm !important;
+}
+
+.noValue {
+    opacity: 0.25;
+}

@@ -1,0 +1,15 @@
+.content {
+    margin: 16px 0;
+    text-align: center;
+}
+
+.printView {
+    padding-top: 16px;
+}
+
+.image {
+    padding: 4px 4px 0;
+    border-color: black;
+    border-style: solid;
+    margin: 16px;
+}

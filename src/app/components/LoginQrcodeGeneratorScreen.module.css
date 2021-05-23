@@ -1,0 +1,16 @@
+.content {
+    max-width: 800px;
+    padding: 16px;
+}
+
+.form {
+    padding-top: 16px;
+}
+
+.alert {
+    background-color: rgb(230, 247, 255, 255);
+    border-color: rgba(145, 213, 255, 255);
+    border-style: solid;
+    position: static;
+    text-align: center;
+}

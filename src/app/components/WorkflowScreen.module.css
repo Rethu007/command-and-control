@@ -1,0 +1,14 @@
+.content {
+    padding: 16px;
+}
+
+.collapse {
+    margin-left: -16px;
+    margin-right: -16px;
+}
+
+.checkboxes {
+    float: right;
+    line-height: 32px;
+    margin-left: 2em;
+}
